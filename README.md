@@ -1,7 +1,8 @@
-﻿# Collision Game (C++ & Raylib)
+﻿# Collision Game
 
 A simple beginner-friendly game built in C++ using the Raylib framework.
 This is my first game project while learning both C++ and Raylib!
+This project helped introduce me to collision mechanics.
 
 # Gameplay
 
