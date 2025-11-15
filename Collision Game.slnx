@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Axe Game.vcxproj" Id="6ac75d32-29e2-476e-a0b9-7a79274288bd" />
+</Solution>
